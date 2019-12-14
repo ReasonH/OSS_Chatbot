@@ -1,0 +1,17 @@
+{
+  "name": "linebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "이유혁",
+  "license": "MIT",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}

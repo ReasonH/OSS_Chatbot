@@ -6,6 +6,9 @@
 - It's not a local service. It's really working well in the server running time.
 - It provides more various languages compared to before version.
 
+### Architecture
+![](Architecture.png)
+
 ### Adding LINE friends using a QR code
 ![](QR.PNG)
 
